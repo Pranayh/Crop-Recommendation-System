@@ -1,0 +1,1 @@
+The Crop Recommendation System predicts the best crops to grow based on soil properties provided by the user, such as pH, nitrogen, phosphorus, and potassium levels. A machine learning algorithm analyzes the data to suggest suitable crops, helping farmers maximize yield and efficiency.
